@@ -1,0 +1,32 @@
+{
+    "name": "dribbble-node-api",
+    "version": "1.0.0",
+    "description": "Dribbble API wrapper for Node.JS",
+    "main": "main.js",
+    "scripts": {
+        "start": "node main.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git@github.com:monsterwaredev/dribbble-node-api.git"
+    },
+    "keywords": [
+        "Dribbble",
+        "API",
+        "Wrapper",
+        "Node.JS",
+        "Open-Source"
+    ],
+    "author": "samuelngs <sam@infinitely.io>",
+    "contributors": [
+        { "name": "syn3r6y" }
+    ],
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/monsterwaredev/dribbble-node-api/issues<Paste>"
+    },
+    "homepage": "https://github.com/monsterwaredev/dribbble-node-api#readme",
+    "dependencies": {
+
+    }
+}
