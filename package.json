@@ -2,9 +2,9 @@
     "name": "dribbble-node-api",
     "version": "1.0.0",
     "description": "Dribbble API wrapper for Node.JS",
-    "main": "main.js",
+    "main": "index.js",
     "scripts": {
-        "start": "node main.js"
+        "start": "node index.js"
     },
     "repository": {
         "type": "git",
